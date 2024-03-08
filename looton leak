@@ -53,7 +53,7 @@ getgenv().Looten = {
       Shake = {
           Enabled = true,
           DirectionX = 8,
-          DirectionY = 6,
+          DirectionY = 22,
           DirectionZ = 7,
       },
       HitPart = {
