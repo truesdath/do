@@ -113,7 +113,7 @@ getgenv().Looten = {
               KeyBinds = {
                   Enabled = true,
                   Notifications = true,
-                  KeyBind = 't',
+                  KeyBind = 'Z',
           },
       },
       ['Memory'] = {
